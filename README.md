@@ -60,10 +60,10 @@ python run_pipeline.py
 pytest -q
 ```
 
-## Portfolio extension ideas
+## Extension ideas
 
 Add PostgreSQL, Docker, scheduled orchestration with Airflow/Prefect, incremental loading, data-quality checks, and a Power BI/Metabase dashboard.
 
 ## Attribution
 
-Inspired by the App Ideas repository's sales database project specification. The ETL, SQL analytics layer, tests and data-engineering architecture are independently implemented for portfolio use.
+Inspired by the App Ideas repository's sales database project specification.
