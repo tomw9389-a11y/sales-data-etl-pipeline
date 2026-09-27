@@ -1,0 +1,31 @@
+transaction_id,transaction_ts,store_id,customer_id,product_id,product_name,category,quantity,unit_price,payment_method
+T1001,2026-09-20 09:15:00,S01,C001,P100,Wireless Mouse,Electronics,2,29.90,card
+T1002,2026-09-20 09:35:00,S01,C002,P101,Mechanical Keyboard,Electronics,1,89.00,e-wallet
+T1003,2026-09-20 10:10:00,S02,C003,P102,USB-C Cable,Accessories,3,12.50,cash
+T1004,2026-09-20 11:05:00,S02,C004,P103,Laptop Stand,Accessories,1,45.00,card
+T1005,2026-09-20 12:42:00,S01,C005,P104,Desk Lamp,Home,2,35.00,e-wallet
+T1006,2026-09-20 13:18:00,S03,C006,P100,Wireless Mouse,Electronics,1,29.90,card
+T1007,2026-09-21 09:22:00,S03,C007,P105,Webcam,Electronics,2,59.00,card
+T1008,2026-09-21 10:17:00,S01,C008,P106,Notebook,Stationery,4,6.50,cash
+T1009,2026-09-21 11:53:00,S02,C009,P107,Office Chair,Home,1,149.00,card
+T1010,2026-09-21 12:25:00,S01,C010,P108,Water Bottle,Home,2,18.90,e-wallet
+T1011,2026-09-21 14:00:00,S03,C011,P101,Mechanical Keyboard,Electronics,1,89.00,card
+T1012,2026-09-21 16:41:00,S03,C003,P102,USB-C Cable,Accessories,2,12.50,cash
+T1013,2026-09-22 09:03:00,S02,C012,P109,Monitor,Electronics,1,399.00,card
+T1014,2026-09-22 10:34:00,S01,C013,P110,Pen Set,Stationery,5,3.90,cash
+T1015,2026-09-22 11:12:00,S01,C014,P104,Desk Lamp,Home,1,35.00,e-wallet
+T1016,2026-09-22 12:48:00,S03,C015,P105,Webcam,Electronics,1,59.00,card
+T1017,2026-09-22 13:50:00,S02,C016,P111,External SSD,Electronics,1,159.00,card
+T1018,2026-09-22 15:05:00,S02,C017,P107,Office Chair,Home,2,149.00,e-wallet
+T1019,2026-09-23 09:27:00,S01,C018,P106,Notebook,Stationery,6,6.50,cash
+T1020,2026-09-23 10:40:00,S02,C019,P108,Water Bottle,Home,1,18.90,card
+T1021,2026-09-23 12:33:00,S03,C020,P100,Wireless Mouse,Electronics,3,29.90,e-wallet
+T1022,2026-09-23 13:29:00,S03,C021,P103,Laptop Stand,Accessories,2,45.00,card
+T1023,2026-09-23 14:18:00,S01,C022,P101,Mechanical Keyboard,Electronics,2,89.00,card
+T1024,2026-09-23 16:02:00,S02,C023,P109,Monitor,Electronics,1,399.00,card
+T1025,2026-09-24 09:14:00,S02,C024,P110,Pen Set,Stationery,10,3.90,cash
+T1026,2026-09-24 10:22:00,S01,C025,P104,Desk Lamp,Home,3,35.00,e-wallet
+T1027,2026-09-24 11:45:00,S03,C026,P111,External SSD,Electronics,1,159.00,card
+T1028,2026-09-24 13:11:00,S03,C027,P102,USB-C Cable,Accessories,5,12.50,cash
+T1029,2026-09-24 15:39:00,S01,C028,P107,Office Chair,Home,1,149.00,card
+T1030,2026-09-24 17:05:00,S02,C029,P105,Webcam,Electronics,2,59.00,e-wallet
